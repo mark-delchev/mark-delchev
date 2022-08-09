@@ -2,11 +2,7 @@
     <h2>About me:</h2>
     <p>I like to code and experiment. In this profile I will post all the projects I am working on.</p>
 </header>
-<h3>How to reach me:</h3>
-<ul>
-    <li><a href="mailto:markdelchev@gmail.com"><strong>markdelchev@gmail.com</strong></a> </li>
-    <li><a href="https://twitter.com/mark_delchev"><strong>twitter<strong></a></li>
-</ul>
+
 <hr>
 <h3 align="left">GitHub Stats:</h3>
 <table>

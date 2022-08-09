@@ -19,7 +19,7 @@
         </th>
         <th>
              <a href = "#">
-             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mark-delchev&show_icons=true&theme=radical&locale=en&layout=compact$hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-delchev&layout=compact&hide_border=true" alt="Programming languages used"  style="max-width: 100%;" align="middle">
+             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-delchev&layout=compact&hide_border=true&theme=radical" alt="Programming languages used"  style="max-width: 100%;" align="middle">
              </a>
         </th>
     </tr>
